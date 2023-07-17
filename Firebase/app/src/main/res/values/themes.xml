@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Firebase" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@android:color/holo_purple</item>
+        <item name="colorAccent">#D500F9</item>
+    </style>
+
+    <style name="Theme.Firebase" parent="Base.Theme.Firebase" />
+</resources>
